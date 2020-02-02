@@ -1,0 +1,1002 @@
+{
+"group" : {
+"transfer_Queue_Id" : "a1B0S0000013hbCUQ",
+"group_Version" : "2",
+"group_Identifier" : "77701|OEB|20180101",
+"branch_Id" : "a0N0S0000011zNMUAY",
+"effective_Date" : "2019-01-01",
+"expiration_Date" : "2019-12-31",
+"branch_Type" : "Locations",
+"master_Group_Name" : "SAN DIEGO UNIFIED PORT",
+"corporate_Group_Number" : "EGSA00491",
+"open_Access_Or_Gatekeeper" : "OpenAccess",
+"service_Area" : "Nationwide",
+"counties_in_Service_Area" : "Plan",
+"contract" : "SRSUP",
+"change_Required_Source_System" : "Yes",
+"gps_Branch_Number" : "001",
+"gps_Employer_ID" : "2659",
+"pcp_Required" : "No",
+"employer_Data_Summary" : {
+"eds_Id" : "a0s0S000000OpWZQA0",
+"employer_Group_Correspondance_Name" : "San Diego Unified Port District",
+"employer_Name_IDCARDS" : "SD PORT RETIREE",
+"employer_Group_Legal_Name" : "SAN DIEGO UNIFIED PORT",
+"employer_Group_DBA_Name" : "San Diego Unified Port",
+"group_Number" : "77701",
+"custom_Contact_Data" : "No",
+"sold_Type" : "Full",
+"Retiree_Enroll_Outside_OE" : "Yes",
+"initial_Enrollment_Method" : "Paper",
+"ongoing_Enrollment_Method" : "Paper",
+"is_Sr_Supp_PDP_Dual_Enrollment_Required" : "Yes",
+"telephonic_Enrollment" : "No",
+"alternative_To_Telephonic_Enrollment" : "Paper",
+"rds_Override_EG_Replace_Credible_Coverage" : "Yes",
+"rds_Override_EG_Replace_Credible_Coverage_Date" : "2018-12-01",
+"rds_Override_EG_Credible_Coverage_Attest" : "Yes",
+"employer_Subsidized_Or_Endorsed_Billing" : "Employer Subsidized",
+"billing_Subsidy" : "100%",
+"lep_Billing_Indicator" : "Not Applicable",
+"split_Billing" : "No",
+"bill_Group" : "Single",
+"invoicing" : "Employer",
+"employer_Federal_Tax_Id" : "999999999",
+"employer_Sponsorship" : "Union",
+"employer_Organization_Type" : "Other",
+"employer_Contract_Type" : "Insured",
+"can_Agents_Send_Fulfillment_Materials" : "Yes",
+"esrd_Waiver_Apply" : "Yes",
+"common_Law_Eligible" : "No",
+"domestic_Partners_Eligible" : "Yes",
+"surviving_Spouses_Eligible" : "Yes",
+"can_Premium_And_Subsidy_Be_Discussed" : "Neither",
+"union_Print" : "No",
+"print_PCP_On_Id_Cards" : "No",
+"plan_Eligibility" : "Yes",
+"premium_Rates" : "Yes",
+"fulfillment" : "Yes",
+"other_Plan_Offerings" : "Yes",
+"retiree_Deceased" : "Yes",
+"personal_Information_Change" : "Yes",
+"opt_Out" : "Yes",
+"benefit_Center_Phone_Number" : "1-619-686-5555",
+"is_this_Group_ERISA" : "Yes",
+"is_The_Group_Sending_Alternative_Disclosure_Materials" : "No",
+"premium_Split_For_Medical" : "292.64",
+"ohi_RX_Premium" : "0.00",
+"part_D_RX_Premium" : "0.00",
+"situs_State" : "CA",
+"site" : "OEB",
+"claims_Platform" : "COSMOS",
+"fulfillment_Type" : "Standard",
+"contact" : {
+"corporate_Headquarters_Address" : "3165 Pacific Highway",
+"corporate_Headquarters_City" : "San Diego",
+"corporate_Headquarters_ZipCode" : "92101",
+"corporate_Headquarters_State" : "CA",
+"executive_Title" : "Benefit Manager",
+"executive_Contact" : "Ms Corbin",
+"executive_Address" : "3165 Pacific Highway",
+"executive_City" : "San Diego",
+"executive_Email_Address" : "c@portofsandiego.org",
+"executive_Phone_Number" : "1-619-686-1111",
+"executive_State" : "CA",
+"executive_Zip_Code" : "92101",
+"administrative_Title" : "Benefits Manager",
+"administrative_Contact" : "Ms Sarchi",
+"administrative_Address" : "3165 Pacific Highway",
+"administrative_City" : "San Diego",
+"administrative_Email_Address" : "s@portofsandiego.org",
+"administrative_Phone_Number" : "1-619-686-2222",
+"administrative_State" : "CA",
+"administrative_Zip_Code" : "92101",
+"service_Title" : "Benefits Manager",
+"service_Contact" : "Ms Sarchi",
+"service_Address" : "3165 Pacific Highway",
+"service_City" : "San Diego",
+"service_Email_Address" : "s@portofsandiego.org",
+"service_Zip_Code" : "92101",
+"service_Phone_Number" : "1-619-686-2222",
+"service_State" : "CA",
+"consultant_Broker_Contact_Agency" : "Willis",
+"consultant_Broker_Contact_Individual" : "Ms Barr",
+"consultant_Broker_Title" : "Senior Vice President",
+"consultant_Broker_Address" : "4250 Executive Square, Suite 250",
+"consultant_Broker_City" : "La Jolla",
+"consultant_Broker_Email_Address" : "b@willis.com",
+"consultant_Broker_Zip_Code" : "92031",
+"consultant_Broker_Phone_Number" : "1-858-678-3333",
+"consultant_Broker_State" : "CA",
+"billing_Title" : "HR Technician",
+"billing_Contact" : "Mr Lawrence",
+"billing_Address" : "3165 Pacific Highway",
+"billing_City" : "San Diego",
+"billing_Email_Address" : "l@portofsandiego.org",
+"billing_Zip_Code" : "92010",
+"billing_Phone_Number" : "1-619-686-4444",
+"billing_State" : "CA"
+}
+},
+"pharmacy_Ops" : {
+"wrap_ICL_Mail_Order" : {
+"tierData" : [ {
+"tier" : "1",
+"tier_Description" : "Tier1"
+}, {
+"tier" : "2",
+"tier_Description" : "Tier2"
+}, {
+"tier" : "3",
+"tier_Description" : "Tier3"
+}, {
+"tier" : "4",
+"tier_Description" : "Tier4"
+}, {
+"tier" : "5",
+"tier_Description" : "Tier5"
+}, {
+"tier" : "6",
+"tier_Description" : "Tier6"
+} ]
+},
+"wrap_ICL_Retail_Order" : {
+"tierData" : [ {
+"tier" : "1",
+"tier_Description" : "Tier1"
+}, {
+"tier" : "2",
+"tier_Description" : "Tier2"
+}, {
+"tier" : "3",
+"tier_Description" : "Tier3"
+}, {
+"tier" : "4",
+"tier_Description" : "Tier4"
+}, {
+"tier" : "5",
+"tier_Description" : "Tier5"
+}, {
+"tier" : "6",
+"tier_Description" : "Tier6"
+} ]
+},
+"wrap_gap_Mail_Order" : {
+"tierData" : [ {
+"tier" : "1",
+"tier_Description" : "Tier1"
+}, {
+"tier" : "2",
+"tier_Description" : "Tier2"
+}, {
+"tier" : "3",
+"tier_Description" : "Tier3"
+}, {
+"tier" : "4",
+"tier_Description" : "Tier4"
+} ]
+},
+"wrap_gap_Retail_Order" : {
+"tierData" : [ {
+"tier" : "1",
+"tier_Description" : "Tier1"
+}, {
+"tier" : "2",
+"tier_Description" : "Tier2"
+}, {
+"tier" : "3",
+"tier_Description" : "Tier3"
+}, {
+"tier" : "4",
+"tier_Description" : "Tier4"
+} ]
+},
+"retail_Standard" : {
+"steps" : [ {
+"tier" : "1",
+"cost_Shares" : [ ]
+}, {
+"tier" : "2",
+"cost_Shares" : [ ]
+}, {
+"tier" : "3",
+"cost_Shares" : [ ]
+}, {
+"tier" : "4",
+"cost_Shares" : [ ]
+}, {
+"tier" : "5",
+"cost_Shares" : [ ]
+}, {
+"tier" : "6",
+"cost_Shares" : [ ]
+} ]
+},
+"mail_Standard" : {
+"steps" : [ {
+"tier" : "1",
+"cost_Shares" : [ ]
+}, {
+"tier" : "2",
+"cost_Shares" : [ ]
+}, {
+"tier" : "3",
+"cost_Shares" : [ ]
+}, {
+"tier" : "4",
+"cost_Shares" : [ ]
+}, {
+"tier" : "5",
+"cost_Shares" : [ ]
+}, {
+"tier" : "6",
+"cost_Shares" : [ ]
+} ]
+}
+},
+"employer_Benefit_Plan" : {
+"plan_Id" : "a0T0S000000XENyUAO",
+"group_Name" : "Karen JSON Review Account",
+"product" : "Senior Supplemental",
+"plan_Year" : "2019",
+"pbp_number" : "905",
+"plan_Type" : "Custom",
+"brand" : "UnitedHealthcare",
+"rx_Plan_Type" : "SSUP",
+"standard_Chiro_Rider" : "GCR0901",
+"standard_Medical_Plan" : "Custom",
+"benefits" : [ {
+"benefit_Code" : "1",
+"benefit_Name" : "Inpatient Hospital Stay - Cost Share for Day Range 1 or Per Admit",
+"INN_Is_Out_Of_Pocket_Max_Amount" : "6700.00",
+"INN_Interval_Number_Type_Id" : "Per Day",
+"INN_Benefit_Cycle_Period" : "60",
+"OON_Benefit_Cycle_Period" : "70",
+"Interval 1" : [ {
+"INN_Copay_Interval_End_Number" : "60",
+"INN_Copay_Interval_Start_Number" : "1",
+"INN_Copay_Interval_Amount" : "0.00"
+} ],
+"Interval 2" : [ {
+"INN_Copay_Interval_End_Number" : "90",
+"INN_Copay_Interval_Start_Number" : "61",
+"INN_Copay_Interval_Amount" : "0.00"
+} ],
+"Interval 3" : [ {
+"INN_Copay_Interval_End_Number" : "150",
+"INN_Copay_Interval_Start_Number" : "91",
+"INN_Copay_Interval_Amount" : "0.00"
+} ]
+}, {
+"benefit_Code" : "3",
+"benefit_Name" : "Inpatient Hospital Stay/Inpatient Mental Health in a Psychiatric Hospital - Facility Cost Share For Day Range 4 Additional 365 Lifetime Reserve Days",
+"INN_Interval_Number_Type_Id" : "Per Day",
+"Interval 1" : [ {
+"INN_Copay_Interval_Start_Number" : "151",
+"INN_Copay_Interval_End_Number" : "515",
+"INN_Copay_Interval_Amount" : "0.00"
+} ]
+}, {
+"benefit_Code" : "6",
+"benefit_Name" : "Inpatient Mental Health in a Psychiatric Hospital - Cost Share",
+"INN_Benefit_Cycle_Period" : "999",
+"INN_Lifetime_Max" : "999",
+"INN_Is_Out_Of_Pocket_Max_Amount" : "6700.00",
+"INN_Interval_Number_Type_Id" : "Per Day",
+"Interval 1" : [ {
+"INN_Copay_Interval_End_Number" : "60",
+"INN_Copay_Interval_Start_Number" : "1",
+"INN_Copay_Interval_Amount" : "0.00"
+} ],
+"Interval 2" : [ {
+"INN_Copay_Interval_End_Number" : "90",
+"INN_Copay_Interval_Start_Number" : "61",
+"INN_Copay_Interval_Amount" : "0.00"
+} ],
+"Interval 3" : [ {
+"INN_Copay_Interval_End_Number" : "150",
+"INN_Copay_Interval_Start_Number" : "91",
+"INN_Copay_Interval_Amount" : "0.00"
+} ]
+}, {
+"benefit_Code" : "8",
+"benefit_Name" : "Inpatient Hospital Stay/Inpatient Mental Health in a Psychiatric Hospital - Facility Cost Share For Day Range 4 Additional 365 Lifetime Reserve Days",
+"INN_Interval_Number_Type_Id" : "Per Day",
+"Interval 1" : [ {
+"INN_Copay_Interval_Start_Number" : "151",
+"INN_Copay_Interval_End_Number" : "515",
+"INN_Copay_Interval_Amount" : "0.00"
+} ]
+}, {
+"benefit_Code" : "10",
+"benefit_Name" : "Skilled Nursing Facility Care day Range 1 - Cost Share",
+"INN_Is_Waived" : "No",
+"INN_Is_Out_Of_Pocket_Max_Amount" : "6700.00",
+"INN_Benefit_Cycle_Period" : "100",
+"OON_Benefit_Cycle_Period" : "7",
+"Interval 1" : [ {
+"INN_Copay_Interval_Start_Number" : "1",
+"INN_Copay_Interval_End_Number" : "20",
+"INN_Copay_Interval_Amount" : "0.00"
+} ],
+"Interval 2" : [ {
+"INN_Copay_Interval_Start_Number" : "21",
+"INN_Copay_Interval_End_Number" : "100",
+"INN_Copay_Interval_Amount" : "0.00"
+} ],
+"Interval 3" : [ { } ]
+}, {
+"benefit_Code" : "13",
+"benefit_Name" : "Comprehensive Outpatient Rehabilitation Facility (CORF) Cost Share",
+"INN_Is_Out_Of_Pocket_Max_Amount" : "6700.00",
+"INN_Copay_Min_Amount" : "1.00",
+"INN_Copay_Max_Amount" : "8.00",
+"OON_Copay_Min_Amount" : "2.00",
+"OON_Copay_Max_Amount" : "9.00"
+}, {
+"benefit_Code" : "14",
+"benefit_Name" : "Emergency Room (MA includes Worldwide coverage) Cost Share",
+"INN_Is_Waived" : "No",
+"INN_Is_Out_Of_Pocket_Max_Amount" : "6700.00",
+"INN_Copay_Min_Amount" : "2.00",
+"INN_Copay_Max_Amount" : "6.00",
+"OON_Copay_Min_Amount" : "2.00",
+"OON_Copay_Max_Amount" : "9.00"
+}, {
+"benefit_Code" : "16",
+"benefit_Name" : "Urgently Needed Care (Contracted Providers) Cost Share",
+"INN_Is_Waived" : "No",
+"INN_Is_Out_Of_Pocket_Max_Amount" : "6700.00",
+"INN_Number_Of_Visits" : "12"
+}, {
+"benefit_Code" : "17",
+"benefit_Name" : "Partial Hospitalization (Mental Health Day Treatment) per day - Cost Share",
+"INN_Is_Out_Of_Pocket_Max_Amount" : "6700.00",
+"INN_Number_Of_Visits" : "12"
+}, {
+"benefit_Code" : "18",
+"benefit_Name" : "Home Health Services Cost Share",
+"INN_Is_Out_Of_Pocket_Max_Amount" : "6700.00",
+"INN_Copay_Min_Amount" : "0.00",
+"INN_Copay_Max_Amount" : "0.00"
+}, {
+"benefit_Code" : "22",
+"benefit_Name" : "Primary Care Physician Office Visit (includes Non-MD office visits) Cost Share",
+"INN_PartB_Excess_Fee_Copay_Amount" : "0.00",
+"INN_Is_Out_Of_Pocket_Max_Amount" : "6700.00",
+"INN_Copay_Min_Amount" : "0.00",
+"INN_Copay_Max_Amount" : "0.00"
+}, {
+"benefit_Code" : "23",
+"benefit_Name" : "Chiropractic Visit (Medicare-covered) Cost Share",
+"INN_Copay_Max_Amount" : "0.00",
+"INN_PartB_Excess_Fee_Copay_Amount" : "0.00",
+"INN_Is_Out_Of_Pocket_Max_Amount" : "6700.00",
+"INN_Copay_Min_Amount" : "0.00"
+}, {
+"benefit_Code" : "24",
+"benefit_Name" : "Routine Chiro Exam Cost Share",
+"INN_Vendor_Name" : "FFS",
+"INN_Number_Of_Visits" : "12",
+"OON_Number_Of_Period" : "1 Year",
+"INN_Number_Of_Period" : "1 Year",
+"INN_Copay_Min_Amount" : "10.00",
+"INN_Copay_Max_Amount" : "10.00",
+"INN_Copay_Coverage_Amount" : "50.00",
+"INN_Additional_Vendor_1" : "Inn Add vendor"
+}, {
+"benefit_Code" : "25",
+"benefit_Name" : "Occupational Therapy Cost Share",
+"INN_PartB_Excess_Fee_Copay_Amount" : "0.00",
+"INN_Is_Out_Of_Pocket_Max_Amount" : "6700.00",
+"INN_Copay_Min_Amount" : "0.00",
+"INN_Copay_Max_Amount" : "0.00"
+}, {
+"benefit_Code" : "26",
+"benefit_Name" : "Specialist Office Visit Cost Share",
+"INN_PartB_Excess_Fee_Copay_Amount" : "0.00",
+"INN_Is_Out_Of_Pocket_Max_Amount" : "6700.00",
+"INN_Copay_Min_Amount" : "0.00",
+"INN_Copay_Max_Amount" : "0.00"
+}, {
+"benefit_Code" : "28",
+"benefit_Name" : "Podiatry Visit (Medicare-covered) Cost Share",
+"INN_Copay_Max_Amount" : "0.00",
+"INN_Copay_Min_Amount" : "0.00",
+"INN_Is_Out_Of_Pocket_Max_Amount" : "6700.00"
+}, {
+"benefit_Code" : "29",
+"benefit_Name" : "Routine Podiatry (Non Medicare-covered) Cost Share",
+"INN_Number_Of_Visits" : "6"
+}, {
+"benefit_Code" : "30",
+"benefit_Name" : "Other Health Care Professional",
+"INN_Copay_Min_Amount" : "0.00",
+"INN_Copay_Max_Amount" : "0.00",
+"INN_PartB_Excess_Fee_Copay_Amount" : "0.00"
+}, {
+"benefit_Code" : "31",
+"benefit_Name" : "Outpatient Mental Health/Substance Abuse (Individual Visit) Cost Share",
+"INN_Is_Out_Of_Pocket_Max_Amount" : "6700.00",
+"INN_Copay_Min_Amount" : "0.00",
+"INN_Copay_Max_Amount" : "0.00"
+}, {
+"benefit_Code" : "32",
+"benefit_Name" : "Physical Therapy and Speech/Language Therapy Cost Share",
+"INN_PartB_Excess_Fee_Copay_Amount" : "0.00",
+"INN_Is_Out_Of_Pocket_Max_Amount" : "6700.00",
+"INN_Copay_Min_Amount" : "0.00",
+"INN_Copay_Max_Amount" : "0.00"
+}, {
+"benefit_Code" : "34",
+"benefit_Name" : "Diagnostic Procedure/Test Cost Share (includes non-radiological diagnostic services)",
+"INN_Is_Out_Of_Pocket_Max_Amount" : "6700.00",
+"INN_Copay_Min_Amount" : "0.00",
+"INN_Copay_Max_Amount" : "0.00"
+}, {
+"benefit_Code" : "35",
+"benefit_Name" : "Clinical Laboratory Services Cost Share",
+"INN_PartB_Excess_Fee_Copay_Amount" : "0.00",
+"INN_Is_Out_Of_Pocket_Max_Amount" : "6700.00",
+"INN_Copay_Min_Amount" : "0.00",
+"INN_Copay_Max_Amount" : "0.00"
+}, {
+"benefit_Code" : "37",
+"benefit_Name" : "Outpatient X-ray Services Cost Share",
+"INN_Is_Out_Of_Pocket_Max_Amount" : "6700.00",
+"INN_Copay_Min_Amount" : "0.00",
+"INN_Copay_Max_Amount" : "0.00"
+}, {
+"benefit_Code" : "38",
+"benefit_Name" : "Diagnostic Radiology Service Cost Share",
+"INN_Is_Out_Of_Pocket_Max_Amount" : "6700.00",
+"INN_Copay_Min_Amount" : "0.00",
+"INN_Copay_Max_Amount" : "0.00"
+}, {
+"benefit_Code" : "39",
+"benefit_Name" : "Therapeutic Radiology Service Cost Share",
+"INN_Is_Out_Of_Pocket_Max_Amount" : "6700.00",
+"INN_Copay_Min_Amount" : "0.00",
+"INN_Copay_Max_Amount" : "0.00"
+}, {
+"benefit_Code" : "40",
+"benefit_Name" : "Outpatient Hospital Services Cost Share",
+"INN_Professional_Fees_Copay_Amount" : "0.00",
+"INN_Is_Out_Of_Pocket_Max_Amount" : "6700.00",
+"INN_Copay_Min_Amount" : "0.00",
+"INN_Copay_Max_Amount" : "0.00"
+}, {
+"benefit_Code" : "41",
+"benefit_Name" : "Outpatient Surgery Cost Share",
+"INN_Professional_Fees_Copay_Amount" : "0.00",
+"INN_Is_Out_Of_Pocket_Max_Amount" : "6700.00",
+"INN_Copay_Min_Amount" : "0.00",
+"INN_Copay_Max_Amount" : "0.00"
+}, {
+"benefit_Code" : "42",
+"benefit_Name" : "Outpatient Mental Health/Substance Abuse (Group Visit) Cost Share",
+"INN_Is_Out_Of_Pocket_Max_Amount" : "6700.00",
+"INN_Copay_Min_Amount" : "0.00",
+"INN_Copay_Max_Amount" : "0.00"
+}, {
+"benefit_Code" : "43",
+"benefit_Name" : "Cardiac/Pulmonary Rehabilitation Cost Share",
+"INN_PartB_Excess_Fee_Copay_Amount" : "0.00",
+"INN_Is_Out_Of_Pocket_Max_Amount" : "6700.00",
+"INN_Copay_Min_Amount" : "0.00",
+"INN_Copay_Max_Amount" : "0.00"
+}, {
+"benefit_Code" : "44",
+"benefit_Name" : "Ambulance Services Cost share",
+"INN_Is_Waived" : "No",
+"INN_Is_Out_Of_Pocket_Max_Amount" : "6700.00",
+"INN_Copay_Min_Amount" : "0.00",
+"INN_Copay_Max_Amount" : "0.00"
+}, {
+"benefit_Code" : "46",
+"benefit_Name" : "Durable Medical Equipment Cost Share",
+"INN_Copay_Min_Amount" : "0.00",
+"INN_Copay_Max_Amount" : "0.00",
+"INN_Is_Out_Of_Pocket_Max_Amount" : "6700.00",
+"INN_PartB_Excess_Fee_Copay_Amount" : "0.00"
+}, {
+"benefit_Code" : "47",
+"benefit_Name" : "Medical Supplies Cost Share",
+"INN_PartB_Excess_Fee_Copay_Amount" : "0.00",
+"INN_Is_Out_Of_Pocket_Max_Amount" : "6700.00",
+"INN_Copay_Min_Amount" : "0.00",
+"INN_Copay_Max_Amount" : "0.00"
+}, {
+"benefit_Code" : "48",
+"benefit_Name" : "Diabetic Monitoring Supplies Cost Share",
+"INN_PartB_Excess_Fee_Copay_Amount" : "0.00",
+"INN_Is_Out_Of_Pocket_Max_Amount" : "6700.00",
+"INN_Copay_Min_Amount" : "0.00",
+"INN_Copay_Max_Amount" : "0.00"
+}, {
+"benefit_Code" : "49",
+"benefit_Name" : "Kidney Dialysis Cost Share",
+"INN_PartB_Excess_Fee_Copay_Amount" : "0.00",
+"INN_Is_Out_Of_Pocket_Max_Amount" : "6700.00",
+"INN_Copay_Min_Amount" : "0.00",
+"INN_Copay_Max_Amount" : "0.00"
+}, {
+"benefit_Code" : "51",
+"benefit_Name" : "Blood Cost Share",
+"INN_Is_Out_Of_Pocket_Max_Amount" : "6700.00",
+"INN_Copay_Min_Amount" : "0.00",
+"INN_Copay_Max_Amount" : "0.00",
+"INN_Benefit_Services" : "Yes"
+}, {
+"benefit_Code" : "53",
+"benefit_Name" : "Acupuncture Visit (Cost Share)",
+"INN_Number_Of_Visits": "35"
+}, {
+"benefit_Code" : "61",
+"benefit_Name" : "Smoking Cessation Visit (Medicare-covered) Cost Share",
+"INN_PartB_Excess_Fee_Copay_Amount" : "0.00",
+"INN_Is_Out_Of_Pocket_Max_Amount" : "6700.00",
+"INN_Copay_Min_Amount" : "0.00",
+"INN_Copay_Max_Amount" : "0.00"
+}, {
+"benefit_Code" : "66",
+"benefit_Name" : "Immunizations (Flu, Pneumococcal, Hepatitis B Vaccines) - (Medicare-covered) Cost Share",
+"INN_Is_Out_Of_Pocket_Max_Amount" : "6700.00",
+"INN_PartB_Excess_Fee_Copay_Amount" : "0.00",
+"INN_Copay_Min_Amount" : "0.00",
+"INN_Copay_Max_Amount" : "0.00"
+}, {
+"benefit_Code" : "69",
+"benefit_Name" : "Annual Routine Physical Exam",
+"INN_PartB_Excess_Fee_Copay_Amount" : "0.00",
+"INN_Copay_Min_Amount" : "0.00",
+"INN_Copay_Max_Amount" : "0.00"
+}, {
+"benefit_Code" : "70",
+"benefit_Name" : "Pap Smears and Pelvic Exams",
+"INN_PartB_Excess_Fee_Copay_Amount" : "0.00",
+"INN_Is_Out_Of_Pocket_Max_Amount" : "6700.00",
+"INN_Copay_Min_Amount" : "0.00",
+"INN_Copay_Max_Amount" : "0.00"
+}, {
+"benefit_Code" : "71",
+"benefit_Name" : "Pap Smears and Pelvic Exams",
+"INN_Is_Out_Of_Pocket_Max_Amount" : "6700.00",
+"INN_Copay_Min_Amount" : "0.00",
+"INN_Copay_Max_Amount" : "0.00",
+"INN_PartB_Excess_Fee_Copay_Amount" : "0.00"
+}, {
+"benefit_Code" : "74",
+"benefit_Name" : "Prostate Cancer Screening",
+"INN_PartB_Excess_Fee_Copay_Amount" : "0.00",
+"INN_Is_Out_Of_Pocket_Max_Amount" : "6700.00",
+"INN_Copay_Min_Amount" : "0.00",
+"INN_Copay_Max_Amount" : "0.00"
+}, {
+"benefit_Code" : "76",
+"benefit_Name" : "Colorectal Cancer Screenings",
+"INN_PartB_Excess_Fee_Copay_Amount" : "0.00",
+"INN_Is_Out_Of_Pocket_Max_Amount" : "6700.00",
+"INN_Copay_Min_Amount" : "0.00",
+"INN_Copay_Max_Amount" : "0.00"
+}, {
+"benefit_Code" : "78",
+"benefit_Name" : "Bone Mass Measurement (Bone Density)",
+"INN_PartB_Excess_Fee_Copay_Amount" : "0.00",
+"INN_Is_Out_Of_Pocket_Max_Amount" : "6700.00",
+"INN_Copay_Min_Amount" : "0.00",
+"INN_Copay_Max_Amount" : "0.00"
+}, {
+"benefit_Code" : "79",
+"benefit_Name" : "Mammography",
+"INN_PartB_Excess_Fee_Copay_Amount" : "0.00",
+"INN_Is_Out_Of_Pocket_Max_Amount" : "6700.00",
+"INN_Copay_Min_Amount" : "0.00",
+"INN_Copay_Max_Amount" : "0.00"
+}, {
+"benefit_Code" : "81",
+"benefit_Name" : "Diabetes - Self-Management Training Cost Share",
+"INN_Is_Out_Of_Pocket_Max_Amount" : "6700.00",
+"INN_Copay_Min_Amount" : "0.00",
+"INN_Copay_Max_Amount" : "0.00"
+}, {
+"benefit_Code" : "82",
+"benefit_Name" : "Medical Nutrition Therapy and Counseling Cost Share",
+"INN_Is_Out_Of_Pocket_Max_Amount" : "6700.00",
+"INN_Copay_Min_Amount" : "0.00",
+"INN_Copay_Max_Amount" : "0.00"
+}, {
+"benefit_Code" : "84",
+"benefit_Name" : "Chemotherapy Drugs",
+"INN_PartB_Excess_Fee_Copay_Amount" : "0.00",
+"INN_Is_Out_Of_Pocket_Max_Amount" : "6700.00",
+"INN_Copay_Min_Amount" : "0.00",
+"INN_Copay_Max_Amount" : "0.00"
+}, {
+"benefit_Code" : "85",
+"benefit_Name" : "Dental (Non Medicare-covered) Plan Type (Enter in Column E)"
+}, {
+"benefit_Code" : "86",
+"benefit_Name" : "Dental (Preventive) - Custom (Cost Share)"
+}, {
+"benefit_Code" : "87",
+"benefit_Name" : "Cleanings Frequency"
+}, {
+"benefit_Code" : "89",
+"benefit_Name" : "Bite-Wing X-Ray Frequency"
+}, {
+"benefit_Code" : "90",
+"benefit_Name" : "Dental Services (Medicare-covered) Cost Share",
+"INN_Is_Out_Of_Pocket_Max_Amount" : "6700.00",
+"INN_Copay_Min_Amount" : "0.00",
+"INN_Copay_Max_Amount" : "0.00"
+}, {
+"benefit_Code" : "97",
+"benefit_Name" : "Eye Exam (Medicare-covered) Cost Share",
+"INN_Is_Out_Of_Pocket_Max_Amount" : "6700.00",
+"INN_Copay_Min_Amount" : "0.00",
+"INN_Copay_Max_Amount" : "0.00"
+}, {
+"benefit_Code" : "102",
+"benefit_Name" : "Contact Lenses allowance ($999.00 = Unlimited)"
+}, {
+"benefit_Code" : "103",
+"benefit_Name" : "Eyeglasses allowance ($999.00 = Unlimited)"
+}, {
+"benefit_Code" : "105",
+"benefit_Name" : "Hearing Exam (Medicare-covered) Cost Share",
+"INN_PartB_Excess_Fee_Copay_Amount" : "0.00",
+"INN_Is_Out_Of_Pocket_Max_Amount" : "6700.00",
+"INN_Copay_Min_Amount" : "0.00",
+"INN_Copay_Max_Amount" : "0.00"
+}, {
+"benefit_Code" : "106",
+"benefit_Name" : "Routine Hearing Exam Cost Share",
+"INN_Number_Of_Visits": "601"
+}, {
+"benefit_Code" : "115",
+"benefit_Name" : "Transplants - Cost Share (For Sr. Supp. Plans Only - Professional services in addition to Inpatient Hospital Services)",
+"INN_Is_Out_Of_Pocket_Max_Amount" : "6700.00",
+"INN_Copay_Min_Amount" : "0.00",
+"INN_Copay_Max_Amount" : "0.00"
+}, {
+"benefit_Code" : "119",
+"benefit_Name" : "Urgently Needed Care (with Non-Contracted Providers) includes Worldwide coverage Cost Share",
+"INN_Is_Waived" : "No"
+}, {
+"benefit_Code" : "127",
+"benefit_Name" : "Cardiovascular Screenings (Medicare-covered) Cost Share",
+"INN_PartB_Excess_Fee_Copay_Amount" : "0.00",
+"INN_Is_Out_Of_Pocket_Max_Amount" : "6700.00",
+"INN_Copay_Min_Amount" : "0.00",
+"INN_Copay_Max_Amount" : "0.00"
+}, {
+"benefit_Code" : "128",
+"benefit_Name" : "Part B Drugs - Immunosuppressives, Anti-nausea, Inhalation Solutions, Hemophilia Clotting Factors, Antigens, Outpatient Injectable Medications Administered in a Physician's Office Cost Share",
+"INN_Copay_Max_Amount" : "0.00",
+"INN_Is_Out_Of_Pocket_Max_Amount" : "6700.00",
+"INN_Copay_Min_Amount" : "0.00"
+}, {
+"benefit_Code" : "129",
+"benefit_Name" : "Outpatient Injectable Medications (Part B Drug Cost Share or Part D Drug Cost Share)"
+}, {
+"benefit_Code" : "134",
+"benefit_Name" : "Routine Eye Exam Refraction Cost Share- every 12 months"
+}, {
+"benefit_Code" : "135",
+"benefit_Name" : "Eyeglasses and contact lenses allowance combined ($999.00 = Unlimited)"
+}, {
+"benefit_Code" : "139",
+"benefit_Name" : "Caregiver",
+"INN_Is_Coverage" : "Yes",
+"OON_Is_Coverage" : "Yes",
+"INN_Number_Of_Visits": '50'
+}, {
+"benefit_Code" : "140",
+"benefit_Name" : "Hearing Aid Cost share",
+"INN_Number_Of_Visits": ""
+}, {
+"benefit_Code" : "204",
+"benefit_Name" : "Eyewear Cost Share for Frames and Lenses Medicare-covered after cataract surgery ($0 if there is No specific allowance but member is reimbursed for Medicare covered frames and lenses.)"
+}, {
+"benefit_Code" : "219",
+"benefit_Name" : "Prosthetics Cost Share",
+"INN_PartB_Excess_Fee_Copay_Amount" : "0.00",
+"INN_Is_Out_Of_Pocket_Max_Amount" : "6700.00",
+"INN_Copay_Min_Amount" : "0.00",
+"INN_Copay_Max_Amount" : "0.00"
+}, {
+"benefit_Code" : "221",
+"benefit_Name" : "Hospice (Medicare-covered) Cost Share",
+"INN_Is_Out_Of_Pocket_Max_Amount" : "6700.00",
+"INN_Copay_Min_Amount" : "0.00",
+"INN_Copay_Max_Amount" : "0.00"
+}, {
+"benefit_Code" : "222",
+"benefit_Name" : "Annual Wellness Exam and One-time Welcome-to-Medicare Exam. (Medicare-covered)",
+"INN_Is_Out_Of_Pocket_Max_Amount" : "6700.00",
+"INN_Copay_Min_Amount" : "0.00",
+"INN_Copay_Max_Amount" : "0.00"
+}, {
+"benefit_Code" : "223",
+"benefit_Name" : "Private Duty Nursing (Cost Share)"
+}, {
+"benefit_Code" : "234",
+"benefit_Name" : "Diabetic Shoes and Inserts",
+"INN_PartB_Excess_Fee_Copay_Amount" : "0.00",
+"INN_Is_Out_Of_Pocket_Max_Amount" : "6700.00",
+"INN_Copay_Min_Amount" : "0.00",
+"INN_Copay_Max_Amount" : "0.00"
+}, {
+"benefit_Code" : "235",
+"benefit_Name" : "Kidney Disease Education (Medicare-covered)",
+"INN_Is_Out_Of_Pocket_Max_Amount" : "6700.00",
+"INN_Copay_Min_Amount" : "0.00",
+"INN_Copay_Max_Amount" : "0.00"
+}, {
+"benefit_Code" : "236",
+"benefit_Name" : "AAA Screenings (Medicare-covered)",
+"INN_PartB_Excess_Fee_Copay_Amount" : "0.00",
+"INN_Is_Out_Of_Pocket_Max_Amount" : "6700.00",
+"INN_Copay_Min_Amount" : "0.00",
+"INN_Copay_Max_Amount" : "0.00"
+}, {
+"benefit_Code" : "237",
+"benefit_Name" : "Diabetes Screening (Medicare-covered)",
+"INN_PartB_Excess_Fee_Copay_Amount" : "0.00",
+"INN_Is_Out_Of_Pocket_Max_Amount" : "6700.00",
+"INN_Copay_Min_Amount" : "0.00",
+"INN_Copay_Max_Amount" : "0.00"
+}, {
+"benefit_Code" : "239",
+"benefit_Name" : "HIV Screening (Medicare-covered)",
+"INN_PartB_Excess_Fee_Copay_Amount" : "0.00",
+"INN_Is_Out_Of_Pocket_Max_Amount" : "6700.00",
+"INN_Copay_Min_Amount" : "0.00",
+"INN_Copay_Max_Amount" : "0.00"
+}, {
+"benefit_Code" : "243",
+"benefit_Name" : "Foreign Travel Beginning Day Range 1 (Medically Necessary Emergency Foreign Travel for each trip outside of the U.S.)",
+"INN_Interval_Number_Type_Id" : "Per Day",
+"Interval 1" : [ {
+"INN_Remainder_Charges_CoInsurance_Percent" : "20",
+"INN_Lifetime_Max_Benefit_Amount" : "50000.00",
+"INN_Benefit_Detail_Deductible" : "250.00",
+"INN_CoInsurance_Interval_End_Number" : "180",
+"INN_CoInsurance_Interval_Start_Number" : "1"
+} ]
+}, {
+"benefit_Code" : "244",
+"benefit_Name" : "At Home Recovery Service (Non Medicare-covered)",
+"INN_Copay_Min_Amount" : "0.00",
+"INN_Number_Of_Visits" : "7",
+"INN_Max_Plan_Amount" : "1600.00",
+"INN_Copay_Max_Amount" : "0.00"
+}, {
+"benefit_Code" : "245",
+"benefit_Name" : "Preventive Care Services (Non Medicare-covered)",
+"INN_Max_Plan_Amount" : "120.00",
+"INN_Copay_Min_Amount" : "0.00",
+"INN_Copay_Max_Amount" : "0.00"
+}, {
+"benefit_Code" : "246",
+"benefit_Name" : "Screening and Behavioral Counseling Interventions in Primary Care to Reduce Alcohol Misuse (Medicare-covered)",
+"INN_PartB_Excess_Fee_Copay_Amount" : "0.00",
+"INN_Is_Out_Of_Pocket_Max_Amount" : "6700.00",
+"INN_Copay_Min_Amount" : "0.00",
+"INN_Copay_Max_Amount" : "0.00"
+}, {
+"benefit_Code" : "247",
+"benefit_Name" : "Screening for Depression in Adults (Medicare-covered)",
+"INN_PartB_Excess_Fee_Copay_Amount" : "0.00",
+"INN_Is_Out_Of_Pocket_Max_Amount" : "6700.00",
+"INN_Copay_Min_Amount" : "0.00",
+"INN_Copay_Max_Amount" : "0.00"
+}, {
+"benefit_Code" : "248",
+"benefit_Name" : "Screening for Sexually Transmitted Infections (STIs) and high intensity Behavioral Counseling to prevent STIs (Medicare-covered)",
+"INN_PartB_Excess_Fee_Copay_Amount" : "0.00",
+"INN_Is_Out_Of_Pocket_Max_Amount" : "6700.00",
+"INN_Copay_Min_Amount" : "0.00",
+"INN_Copay_Max_Amount" : "0.00"
+}, {
+"benefit_Code" : "249",
+"benefit_Name" : "Intensive Behavioral Therapy to reduce Cardiovascular Disease Risk (Medicare-covered)",
+"INN_PartB_Excess_Fee_Copay_Amount" : "0.00",
+"INN_Copay_Min_Amount" : "0.00",
+"INN_Copay_Max_Amount" : "0.00",
+"INN_Is_Out_Of_Pocket_Max_Amount" : "6700.00"
+}, {
+"benefit_Code" : "250",
+"benefit_Name" : "Screening and Counseling for Obesity (Medicare-covered)",
+"INN_PartB_Excess_Fee_Copay_Amount" : "0.00",
+"INN_Is_Out_Of_Pocket_Max_Amount" : "6700.00",
+"INN_Copay_Min_Amount" : "0.00",
+"INN_Copay_Max_Amount" : "0.00"
+}, {
+"benefit_Code" : "255",
+"benefit_Name" : "Orthotics Cost Share",
+"INN_PartB_Excess_Fee_Copay_Amount" : "0.00",
+"INN_Is_Out_Of_Pocket_Max_Amount" : "6700.00",
+"INN_Copay_Min_Amount" : "0.00",
+"INN_Copay_Max_Amount" : "0.00"
+}, {
+"benefit_Code" : "256",
+"benefit_Name" : "Wig Cost Share"
+}, {
+"benefit_Code" : "274",
+"benefit_Name" : "Telemedicine",
+"INN_Is_Out_Of_Pocket_Max_Amount" : "6700.00",
+"INN_Copay_Min_Amount" : "0.00",
+"INN_Copay_Max_Amount" : "0.00"
+}, {
+"benefit_Code" : "281",
+"benefit_Name" : "Glaucoma Screening (Medicare-covered)",
+"INN_Is_Out_Of_Pocket_Max_Amount" : "6700.00",
+"INN_Copay_Min_Amount" : "0.00",
+"INN_Copay_Max_Amount" : "0.00"
+}, {
+"benefit_Code" : "282",
+"benefit_Name" : "Dialysis Training (Medicare-covered)",
+"INN_Is_Out_Of_Pocket_Max_Amount" : "6700.00",
+"INN_Copay_Min_Amount" : "0.00",
+"INN_Copay_Max_Amount" : "0.00"
+}, {
+"benefit_Code" : "283",
+"benefit_Name" : "Hepatitis C Screening (Medicare-covered)",
+"INN_Is_Out_Of_Pocket_Max_Amount" : "6700.00",
+"INN_Copay_Min_Amount" : "0.00",
+"INN_Copay_Max_Amount" : "0.00"
+}, {
+"benefit_Code" : "286",
+"benefit_Name" : "Lung Cancer Screening (Medicare-covered)",
+"INN_Is_Out_Of_Pocket_Max_Amount" : "6700.00",
+"INN_Copay_Min_Amount" : "0.00",
+"INN_Copay_Max_Amount" : "0.00"
+}, {
+"benefit_Code" : "290",
+"benefit_Name" : "Insulin Pumps and Supplies",
+"INN_Is_Out_Of_Pocket_Max_Amount" : "6700.00",
+"INN_Copay_Min_Amount" : "0.00",
+"INN_Copay_Max_Amount" : "0.00"
+}, {
+"benefit_Code" : "297",
+"benefit_Name" : "Virtual Visit Cost Share",
+"INN_Is_Out_Of_Pocket_Max_Amount" : "6700.00",
+"INN_Copay_Min_Amount" : "0.00",
+"INN_Copay_Max_Amount" : "0.00"
+} ],
+"programs" : [ {
+"program_Name" : "Dental Reimbursement Schedule"
+}, {
+"program_Name" : "Fitness",
+"in_Network_Text_Value" : "SilverSneakers"
+}, {
+"program_Name" : "Caregiver",
+"in_Network_Text_Value" : "Standard"
+}, {
+"program_Name" : "NurseLine",
+"in_Network_Text_Value" : "Included"
+}, {
+"program_Name" : "Treatment Decision Support",
+"in_Network_Text_Value" : "Not Included"
+}, {
+"program_Name" : "Access Support",
+"in_Network_Text_Value" : "Included"
+}, {
+"program_Name" : "Chronic Heart Failure (CHF)",
+"in_Network_Text_Value" : "Not Included"
+}, {
+"program_Name" : "Coronary Artery Disease (CAD)/Diabetes",
+"in_Network_Text_Value" : "Not Included"
+}, {
+"program_Name" : "End Stage Renal Disease (ESRD)",
+"in_Network_Text_Value" : "Not Included"
+}, {
+"program_Name" : "Group Retiree Case Management",
+"in_Network_Text_Value" : "Not Included"
+}, {
+"program_Name" : "Advanced Illness Care Management",
+"in_Network_Text_Value" : "Not Included"
+}, {
+"program_Name" : "Preferred Diabetic Supply Program",
+"in_Network_Text_Value" : "Not Included"
+}, {
+"program_Name" : "Hi Health Discount Program",
+"in_Network_Text_Value" : "Included"
+}, {
+"program_Name" : "HouseCalls Program",
+"in_Network_Text_Value" : "Not Included"
+} ],
+"packages" : [ {
+"package_Name" : "non-medicare chiropractic package number",
+"benefit_Code" : "24",
+"in_Network_Package_Number" : "GCR0901",
+"not_In_Network_Package_Number" : "GCR0901",
+"INN_Number_Of_Visits": "42"
+} ],
+"pharmacies" : [ {
+"pharmacy_Name" : "Rx Wrap Package Number"
+} ],
+"deductibles_and_MOOPs" : [ {
+"benefit_Name" : "Annual Medical Deductible 1"
+}, {
+"benefit_Name" : "Annual Medical Deductible 1 Combined"
+}, {
+"benefit_Name" : "Annual Medical Deductible 2"
+}, {
+"benefit_Name" : "Annual Medical Deductible 2 Combined"
+}, {
+"benefit_Name" : "Annual MOOP Category"
+}, {
+"benefit_Name" : "Annual Medical Out-of-Pocket Maximum 1",
+"in_Network_Currency_Value" : "6700.00"
+}, {
+"benefit_Name" : "Is Annual Medical Out-of-Pocket Maximum 1 Combined"
+}, {
+"benefit_Name" : "Annual Medical Out-of-Pocket Maximum 2"
+}, {
+"benefit_Name" : "Is Annual Medical Out-of-Pocket Maximum 2 Combined"
+}, {
+"benefit_Name" : "Part A Deductible",
+"in_Network_Text_Value" : "11"
+}, {
+"benefit_Name" : "Part B Deductible",
+"in_Network_Text_Value" : "$test"
+} ],
+"footnotes" : {
+"footnote" : [ ]
+},
+"custom_Notes" : {
+"custom_Fields" : [ ]
+},
+"custom_Contact_Details" : [ {
+"type" : "Claims",
+"address1" : "123 Main Street",
+"address2" : "PO Box 42",
+"email" : "test@email.com",
+"fax" : "1-333-333-3333",
+"city" : "SEATTLE",
+"zip_Code" : "98104",
+"hours" : "7am-5pm Mon-Fri",
+"tfn" : "1-222-222-2222",
+"tty" : "711",
+"url" : "testurl.com"
+}, {
+"type" : "Customer Service",
+"address1" : "One School Street",
+"address2" : "One School Street",
+"email" : "test@email.com",
+"fax" : "1-444-444-4444",
+"city" : "Bethel",
+"zip_Code" : "06801",
+"hours" : "",
+"tfn" : "1-555-555-5555",
+"tty" : "",
+"url" : "testurl.com"
+},{
+"type" : "Corporate or HeadQuarter",
+"address1" : "123 Main Street",
+"address2" : "PO Box 42",
+"email" : "",
+"fax" : "",
+"city" : "SEATTLE",
+"zip_Code" : "98104",
+"hours" : "7am-5pm Mon-Fri",
+"tfn" : "1-222-222-2222",
+"tty" : "711",
+"url" : "testurl.com" 
+},{
+"type" : "Billing Address",
+"address1" : "123 Main Street",
+"address2" : "PO Box 42",
+"email" : "",
+"fax" : "",
+"city" : "SEATTLE",
+"zip_Code" : "98104",
+"tfn" : "1-222-222-2222",
+"url" : "testurl.com" 
+}]
+}
+}
+}
